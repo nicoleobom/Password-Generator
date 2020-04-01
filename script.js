@@ -11,7 +11,7 @@ var pw;
 // Add event listener to generate password
 generateBtn.addEventListener("click", writePassword);
 
-This function generates password
+// This function generates password
 function generatePassword() {
    pwLength = prompt("How many characters would you like your password to be?");
 
